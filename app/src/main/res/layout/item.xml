@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_itemdetail"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/img_avt"
+        android:src="@drawable/ic_launcher_foreground"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/img_avt"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kiếm diệt quỷ"
+            android:textColor="@color/black"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:id="@+id/item_script"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Công cụ bạo lực thô sơ"
+            android:textSize="20dp"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</RelativeLayout>
