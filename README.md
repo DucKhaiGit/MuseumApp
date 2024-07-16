@@ -13,12 +13,6 @@ Database: Room Database
 User interface: XML
 Session management: MVVM & DataBinding and LiveData
 
-How to install
-Clone repository from GitHub:
-git clone https://github.com/username/your-repo.git
-Open the project using Android Studio.
-
-Sync Gradle and run the application on virtual or real devices.
 
 User manual
 Register an account: Access the registration screen, enter the necessary information and select the user role (admin or customer).
@@ -50,12 +44,7 @@ Cơ sở dữ liệu: Room Database
 Giao diện người dùng: XML
 Quản lý phiên: MVVM & DataBinding và LiveData
 
-Cách cài đặt
-Clone repository từ GitHub:
-git clone https://github.com/username/your-repo.git
-Mở dự án bằng Android Studio.
 
-Sync Gradle và chạy ứng dụng trên thiết bị ảo hoặc thiết bị thật.
 
 Hướng dẫn sử dụng
 Đăng ký tài khoản: Truy cập vào màn hình đăng ký, nhập thông tin cần thiết và chọn vai trò người dùng (admin hoặc khách hàng).
